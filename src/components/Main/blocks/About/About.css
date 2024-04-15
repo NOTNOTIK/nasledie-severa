@@ -1,0 +1,37 @@
+.About {
+  margin: 0;
+  background-color: #dfe9f3;
+  padding-bottom: 110px;
+}
+.About__container {
+  position: relative;
+  height: 725px;
+  margin: 115px 130px 0px 150px;
+}
+.About__photo {
+  position: relative;
+}
+.About__photo-abs {
+  position: absolute;
+}
+.About__title {
+  font-size: 52.5px;
+  margin: 0;
+  font-family: "Oswald Regular", sans-serif;
+  color: #0c2e61;
+}
+.About__info {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  padding: 50px 42px 0 64px;
+  background-color: #dfe9f3;
+}
+.About__text {
+  font-family: "Oswald Regular", sans-serif;
+  color: #0c2e61;
+  font-size: 22px;
+  width: 705px;
+  margin: 0;
+  margin-top: 34px;
+}

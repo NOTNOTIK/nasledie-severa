@@ -1,0 +1,61 @@
+.form {
+  background-color: #0c2e61;
+  display: flex;
+
+  padding-top: 40px;
+  padding-left: 155px;
+}
+.form__title {
+  color: white;
+  font-family: "Oswald Regular", sans-serif;
+  font-size: 54px;
+  padding-top: 10px;
+  line-height: 55px;
+  width: 675px;
+  margin: 0;
+}
+.form__img {
+  background: url(../../../../images/formPhoto.svg);
+  background-size: cover;
+  width: 255px;
+  height: 185px;
+}
+.form__input {
+  color: #0c2e61;
+  font-family: "Oswald Regular", sans-serif;
+  font-size: 23px;
+  width: 309px;
+  border: none;
+  color: #c2dbff;
+  padding: 19px 0 14px 25px;
+  border: 1px solid #8ba2c5;
+  border-radius: 37px;
+  margin-top: 25px;
+}
+.form__form {
+  margin-left: 20px;
+  text-align: center;
+}
+.form__submit {
+  color: #0c2e61;
+  font-family: "Oswald Regular", sans-serif;
+  font-size: 24px;
+  margin-left: 22px;
+  border: none;
+  padding: 16px 80px;
+  color: white;
+  background: none;
+  background-color: #6c9ce3;
+  border-radius: 37px;
+}
+.form__text {
+  font-family: "Oswald Regular", sans-serif;
+  color: #c2dbff;
+  font-size: 17px;
+  margin: 0;
+  margin-top: 10px;
+  margin-left: 31px;
+}
+.form__text span {
+  text-decoration: underline;
+}

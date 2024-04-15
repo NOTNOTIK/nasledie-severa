@@ -1,0 +1,49 @@
+.header {
+  padding: 13px 95px 18px 150px;
+}
+.header__1 {
+  display: flex;
+  justify-content: space-between;
+}
+.header__logo {
+  display: flex;
+  gap: 24px;
+  align-items: center;
+}
+.header__info {
+  display: flex;
+  align-items: center;
+  gap: 99px;
+  margin-top: 4px;
+}
+.header__text {
+  font-family: "Oswald", sans-serif;
+  font-size: 18px;
+  font-weight: 200;
+  width: fit-content;
+  margin: 0;
+  color: #768eb1;
+}
+.header__button {
+  border: none;
+  cursor: pointer;
+  color: white;
+  font-size: 21px;
+  padding: 12px 66px 15px;
+  border-radius: 67px;
+  font-family: "Oswald Regular", sans-serif;
+
+  background-color: #6c9ce3;
+}
+.header__nav {
+  display: flex;
+  padding-left: 10px;
+  margin-top: 36px;
+  gap: 93px;
+}
+.header__link {
+  margin: 0;
+  font-size: 24px;
+  font-family: "Oswald Regular", sans-serif;
+  color: #0c2e61;
+}

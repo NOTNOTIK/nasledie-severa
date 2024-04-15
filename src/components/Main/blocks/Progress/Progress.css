@@ -1,0 +1,41 @@
+.Progress {
+  background-color: #dfeaf3;
+}
+.Progress__title {
+  color: #0c2e61;
+  font-family: "Oswald Regular", sans-serif;
+  font-size: 54px;
+  margin: 0;
+  padding-top: 110px;
+  margin-left: 150px;
+}
+.Progress__container {
+  display: flex;
+  justify-content: space-around;
+  margin: 25px 15px 60px 50px;
+}
+
+.Progress__num {
+  font-family: "Oswald Regular", sans-serif;
+  color: #6c9ce3;
+  font-size: 90px;
+  margin: 0;
+}
+.Progress__text {
+  font-family: "Oswald Regular", sans-serif;
+  color: #0c2e61;
+  font-size: 21px;
+  margin: 0;
+}
+.Progress__button {
+  display: flex;
+  margin: 0 auto;
+  border: 1px solid #6c9ce3;
+  color: #6c9ce3;
+  font-family: "Oswald Regular", sans-serif;
+  font-size: 23px;
+  padding: 16px 75px 15px;
+  background: none;
+  border-radius: 37px;
+  margin-bottom: 120px;
+}

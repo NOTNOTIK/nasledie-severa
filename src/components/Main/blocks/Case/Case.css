@@ -1,0 +1,36 @@
+.Case__title {
+  color: #0c2e61;
+  font-family: "Oswald Regular", sans-serif;
+  font-size: 54px;
+  margin: 0;
+  margin-top: 95px;
+  margin-left: 150px;
+}
+.Case__container {
+  display: flex;
+  justify-content: center;
+  gap: 45px;
+  margin-top: 40px;
+  margin-left: 52px;
+  margin-bottom: 95px;
+}
+.Case__block {
+  background-color: #dfe9f3;
+  display: flex;
+  flex-direction: column;
+  width: 510px;
+  border-radius: 19px;
+}
+.Case__button {
+  border: none;
+  background-color: #6c9ce3;
+  color: white;
+  font-family: "Oswald Regular", sans-serif;
+  font-size: 21px;
+  width: fit-content;
+  margin: 0 auto;
+  padding: 15px 139px;
+  border-radius: 35px;
+  margin-top: 26px;
+  margin-bottom: 26px;
+}

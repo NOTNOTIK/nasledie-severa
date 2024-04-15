@@ -1,0 +1,11 @@
+@import url(./blocks/About/About.css);
+@import url(./blocks/Case/Case.css);
+@import url(./blocks/Donations/Donations.css);
+@import url(./blocks/Form/Form.css);
+@import url(./blocks/Progress/Progress.css);
+@import url(./blocks/News/News.css);
+@import url(./blocks/Galery/Galery.css);
+.main {
+  width: 100%;
+  overflow: hidden;
+}

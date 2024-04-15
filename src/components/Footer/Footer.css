@@ -1,0 +1,85 @@
+.footer {
+  background-color: #0c2e61;
+  overflow: hidden;
+  padding-bottom: 18px;
+}
+.footer__logo {
+  height: fit-content;
+}
+.footer__container1 {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 200px;
+  padding-top: 58px;
+  margin-right: 144px;
+}
+.footer__nav {
+  display: flex;
+  flex-direction: column;
+  height: 118px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 778px;
+
+  margin-left: 120px;
+}
+.footer__link {
+  font-family: "Oswald Regular", sans-serif;
+  font-size: 23px;
+  color: white;
+  text-decoration: none;
+}
+.footer__phone {
+  font-family: "Oswald Regular", sans-serif;
+  font-size: 23px;
+  color: white;
+  text-decoration: none;
+  margin: 0;
+}
+.footer__info {
+  width: 205px;
+}
+.footer__adress {
+  font-family: "Oswald", sans-serif;
+  font-size: 23px;
+  font-weight: 200;
+  color: white;
+  text-decoration: none;
+  margin: 0;
+  margin-top: 11px;
+}
+
+.footer__email {
+  font-family: "Oswald", sans-serif;
+  font-size: 23px;
+  font-weight: 200;
+  color: white;
+  text-decoration: none;
+  margin: 0;
+  margin-top: 16px;
+}
+.footer__group {
+  margin-top: 52px;
+}
+.footer__politics {
+  display: flex;
+  margin-left: 200px;
+  margin-top: 12px;
+  gap: 73px;
+}
+.footer__text {
+  color: #c2dbff;
+  font-family: "Oswald", sans-serif;
+  font-size: 18.6px;
+  font-weight: 200;
+}
+.footer__block {
+  display: flex;
+  margin-left: 65px;
+  gap: 16px;
+}
+.footer__block2 {
+  display: flex;
+  margin-left: 80px;
+  gap: 11px;
+}

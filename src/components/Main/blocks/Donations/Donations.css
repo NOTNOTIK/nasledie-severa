@@ -1,0 +1,71 @@
+.Donations {
+  background-color: #dfe9f3;
+  padding-bottom: 30px;
+}
+.Donations__title {
+  color: #0c2e61;
+  font-family: "Oswald Regular", sans-serif;
+  font-size: 54px;
+  margin: 0;
+  margin-top: 89px;
+  margin-left: 150px;
+}
+.Donations__container {
+  display: flex;
+  justify-content: center;
+  gap: 45px;
+  margin-top: 40px;
+  margin-left: 52px;
+  margin-bottom: 95px;
+}
+.Donations__block {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  width: 510px;
+  border-radius: 19px;
+}
+.Donations__button {
+  border: none;
+  background-color: #6c9ce3;
+  color: white;
+  font-family: "Oswald Regular", sans-serif;
+  font-size: 21px;
+  width: fit-content;
+  margin: 0 auto;
+  padding: 15px 182px;
+  border-radius: 35px;
+  margin-top: 26px;
+  margin-bottom: 26px;
+}
+.Donations__img-container {
+  margin: 0 auto;
+  margin-top: 24px;
+}
+.Donations__name {
+  font-family: "Oswald Regular", sans-serif;
+  font-size: 21.7px;
+  font-weight: 400;
+  margin-left: 7px;
+  max-width: 430px;
+  height: 30px;
+}
+.Donations__sum {
+  color: #0c2e61;
+  margin: 0;
+  font-family: "Oswald Regular", sans-serif;
+  font-size: 30px;
+  margin-top: 43px;
+  margin-left: 7px;
+}
+.Donations__poloska {
+  margin-left: 7px;
+}
+.Donations__purpose {
+  color: #0c2e61;
+  margin: 0;
+  font-family: "Oswald Regular", sans-serif;
+  font-size: 23.3px;
+  margin-top: 14px;
+  margin-left: 7px;
+}
