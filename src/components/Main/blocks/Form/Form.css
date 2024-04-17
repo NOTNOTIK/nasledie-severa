@@ -22,11 +22,13 @@
 }
 .form__input {
   color: #0c2e61;
-  font-family: "Oswald Regular", sans-serif;
+  font-family: "Oswald", sans-serif;
   font-size: 23px;
+  font-weight: 200;
   width: 309px;
   border: none;
   color: #c2dbff;
+  background: none;
   padding: 19px 0 14px 25px;
   border: 1px solid #8ba2c5;
   border-radius: 37px;
@@ -53,9 +55,13 @@
   color: #c2dbff;
   font-size: 17px;
   margin: 0;
-  margin-top: 10px;
+  margin-top: 13px;
   margin-left: 31px;
 }
 .form__text span {
+  cursor: pointer;
   text-decoration: underline;
+}
+.form__text span:hover {
+  text-decoration: none;
 }

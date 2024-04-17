@@ -8,12 +8,56 @@ export default function Galery() {
   return (
     <>
       <div className="Galery">
-        <h2 className="Galery__title">Галерея</h2>
+        <div className="s">
+          <h2 className="Galery__title">Галерея</h2>
+          <div className="con">
+            <a href="#" className="Galery__link">
+              Смотреть все
+            </a>
+            <span className="span">&#8250;</span>
+          </div>
+        </div>
         <div className="Galery__container">
-          <img src={s2} alt="" className="Galery__block div1" />
-          <img src={s3} alt="" className="Galery__block div2" />
-          <img src={s5} alt="" className="Galery__block div3" />
-          <img src={s4} alt="" className="Galery__block div4" />
+          <div className="Galery__block">
+            <div className="overlay">
+              {" "}
+              <h3 className="overlay__text">
+                Разнообразный и богатый опыт говорит нам, что курс
+              </h3>
+            </div>
+            <img src={s2} alt="" className="div1" />
+          </div>
+
+          <div className="Galery__block">
+            <div className="overlay">
+              {" "}
+              <h3 className="overlay__text">
+                Разнообразный и богатый опыт говорит нам, что курс
+              </h3>
+            </div>
+            <img src={s3} alt="" className="div2" />
+          </div>
+
+          <div className="Galery__block">
+            <div className="overlay">
+              {" "}
+              <h3 className="overlay__text">
+                Разнообразный и богатый опыт говорит нам, что курс
+              </h3>
+            </div>
+            <img src={s5} alt="" className="div3" />
+          </div>
+
+          <div className="Galery__block">
+            <a href="#">
+              <div className="overlay">
+                <h3 className="overlay__text">
+                  Разнообразный и богатый опыт говорит нам, что курс
+                </h3>
+              </div>
+            </a>
+            <img src={s4} alt="" className="div4" />
+          </div>
           <img src={s1} alt="" className="Galery__block div5" />
         </div>
         <img src={aboutborder} alt="" className="Galery__border" />

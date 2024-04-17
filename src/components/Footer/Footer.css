@@ -29,12 +29,19 @@
   color: white;
   text-decoration: none;
 }
+.footer__link:hover {
+  color: #8db8f9;
+}
+
 .footer__phone {
   font-family: "Oswald Regular", sans-serif;
   font-size: 23px;
   color: white;
   text-decoration: none;
   margin: 0;
+}
+.footer__phone:hover {
+  color: #8db8f9;
 }
 .footer__info {
   width: 205px;
@@ -48,7 +55,9 @@
   margin: 0;
   margin-top: 11px;
 }
-
+.footer__adress:hover {
+  color: #8db8f9;
+}
 .footer__email {
   font-family: "Oswald", sans-serif;
   font-size: 23px;
@@ -57,6 +66,9 @@
   text-decoration: none;
   margin: 0;
   margin-top: 16px;
+}
+.footer__email:hover {
+  color: #8db8f9;
 }
 .footer__group {
   margin-top: 52px;
@@ -72,6 +84,10 @@
   font-family: "Oswald", sans-serif;
   font-size: 18.6px;
   font-weight: 200;
+}
+.footer__text:nth-child(2):hover {
+  color: #ffffff;
+  cursor: pointer;
 }
 .footer__block {
   display: flex;

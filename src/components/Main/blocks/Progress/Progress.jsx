@@ -18,7 +18,9 @@ export default function Progress() {
             <p className="Progress__text">раз пожертвовали за 2021 год</p>
           </div>
         </div>
-        <button className="Progress__button">Смотреть отчёты</button>
+        <div className="button__class">
+          <button className="Progress__button">Смотреть отчёты</button>
+        </div>
         <img src={aboutborder} alt="" className="Progress__border" />
       </div>
     </>

@@ -1,3 +1,6 @@
+.Case {
+  position: relative;
+}
 .Case__title {
   color: #0c2e61;
   font-family: "Oswald Regular", sans-serif;
@@ -20,6 +23,7 @@
   flex-direction: column;
   width: 510px;
   border-radius: 19px;
+  position: relative;
 }
 .Case__button {
   border: none;
@@ -31,6 +35,51 @@
   margin: 0 auto;
   padding: 15px 139px;
   border-radius: 35px;
-  margin-top: 26px;
+  margin-top: 20px;
   margin-bottom: 26px;
+  cursor: pointer;
+}
+.Case__button:hover {
+  background-color: #4378c9;
+  padding: 17px 152px;
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+.content {
+  /* Скрываем сразу контент */
+  display: none;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+  padding-bottom: 50px;
+  border-radius: 20px;
+  background-color: #dfe9f3;
+}
+.content__title {
+  font-family: "Oswald Regular", sans-serif;
+  font-size: 29.5px;
+  width: 364px;
+  margin: 0;
+  color: #0c2e61;
+  padding-top: 50px;
+  padding-left: 55px;
+}
+.content__text {
+  font-family: "Oswald", sans-serif;
+  font-size: 24px;
+  font-weight: 200;
+  margin: 0;
+  color: #0c2e61;
+  width: 364px;
+  margin-top: 10px;
+  padding-left: 55px;
+}
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.wrapper a:hover ~ .content {
+  /* При наведении на ссылку в раппере, откроется контент */
+  display: block;
 }

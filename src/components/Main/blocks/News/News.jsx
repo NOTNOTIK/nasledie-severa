@@ -7,7 +7,15 @@ export default function News() {
   return (
     <>
       <div className="News">
-        <h2 className="News__title">Новости</h2>
+        <div className="s">
+          <h2 className="News__title">Новости</h2>
+          <div className="con">
+            <a href="#" className="News__link">
+              Читать все
+            </a>
+            <span className="span">&#8250;</span>
+          </div>
+        </div>
         <div className="News__container">
           <div className="News__block">
             <img src={img1} alt="" className="News__img" />

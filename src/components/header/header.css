@@ -46,4 +46,9 @@
   font-size: 24px;
   font-family: "Oswald Regular", sans-serif;
   color: #0c2e61;
+  transition: 0.2s;
+  cursor: pointer;
+}
+.header__link:hover {
+  color: #4378c9;
 }

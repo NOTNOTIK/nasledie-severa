@@ -9,11 +9,13 @@ import Form from "./blocks/Form/Form";
 import Progress from "./blocks/Progress/Progress";
 import News from "./blocks/News/News";
 import Galery from "./blocks/Galery/Galery";
+import Map from "./blocks/Map/Map";
 export default function Main() {
   return (
     <>
       <Header />
       <main className="main">
+        <Map />
         <About />
         <Case />
         <Donations />

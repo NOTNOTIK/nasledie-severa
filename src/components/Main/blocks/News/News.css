@@ -59,3 +59,29 @@
   position: absolute;
   bottom: 0;
 }
+.con {
+  padding-bottom: 3px;
+}
+.s {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  margin-right: 90px;
+}
+.News__link {
+  color: #0c2e61;
+  margin: 0;
+  font-family: "Oswald", sans-serif;
+  font-size: 22px;
+  font-weight: 200;
+  text-decoration: none;
+  text-decoration: underline;
+}
+.News__link:hover {
+  text-decoration: none;
+}
+.span {
+  text-decoration: none;
+  font-size: 40px;
+  margin-left: 15px;
+}

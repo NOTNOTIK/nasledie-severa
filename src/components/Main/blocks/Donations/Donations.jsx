@@ -7,7 +7,15 @@ export default function Donations() {
   return (
     <div className="Donations">
       <img src={aboutborder} alt="" className="Donations__border" />
-      <h2 className="Donations__title">Пожертвования</h2>
+      <div className="s">
+        <h2 className="Donations__title">Пожертвования</h2>
+        <div className="con">
+          <a href="#" className="Donations__link">
+            Полный список
+          </a>
+          <span className="span">&#8250;</span>
+        </div>
+      </div>
       <div className="Donations__container">
         <div className="Donations__block">
           <div className="Donations__img-container">

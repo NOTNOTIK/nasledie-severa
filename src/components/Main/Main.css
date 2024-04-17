@@ -5,6 +5,7 @@
 @import url(./blocks/Progress/Progress.css);
 @import url(./blocks/News/News.css);
 @import url(./blocks/Galery/Galery.css);
+@import url(./blocks/Map/Map.css);
 .main {
   width: 100%;
   overflow: hidden;
