@@ -1,10 +1,12 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-[Посмотреть можно здесь](https://facebook.github.io/create-react-app/docs/deployment)
 
 ## Available Scripts
 
+### `npm i`
+
+Установите зависимости, только после этого выполняется команду ниже
 In the project directory, you can run:
 
 ### `npm start`
