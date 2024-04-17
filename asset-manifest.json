@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/nasledie-severa/static/css/main.7561f962.css",
+    "main.js": "/nasledie-severa/static/js/main.f348fb51.js",
+    "static/js/453.04ee9f8d.chunk.js": "/nasledie-severa/static/js/453.04ee9f8d.chunk.js",
+    "static/media/About.svg": "/nasledie-severa/static/media/About.099c3df766c3ca7f6b517f43f1e97a8a.svg",
+    "static/media/mapimg.svg": "/nasledie-severa/static/media/mapimg.275de23a5a0934fd4ab33d8fdbe3bfe6.svg",
+    "static/media/2.svg": "/nasledie-severa/static/media/2.6d09e1694373cd7ee45b8083baaeecf5.svg",
+    "static/media/Rectangle54.svg": "/nasledie-severa/static/media/Rectangle54.c1186ce187bd724cb099267ae5f0d572.svg",
+    "static/media/3.svg": "/nasledie-severa/static/media/3.52220d38318dd618bfabf21bdbd505ab.svg",
+    "static/media/5.svg": "/nasledie-severa/static/media/5.635538ae6903f0fc3308228a1d73fcfa.svg",
+    "static/media/4.svg": "/nasledie-severa/static/media/4.86fdd8f57012657acb07e86f012fa8ab.svg",
+    "static/media/1.svg": "/nasledie-severa/static/media/1.d0ae3916c473be35a979972dd85b458a.svg",
+    "static/media/Rectangle56.svg": "/nasledie-severa/static/media/Rectangle56.eaf96dee9f40fc80ca7637f3efa96429.svg",
+    "static/media/Rectangle1.svg": "/nasledie-severa/static/media/Rectangle1.bd0ae72a0e060eff0b2209f555068a09.svg",
+    "static/media/Rectangle53.svg": "/nasledie-severa/static/media/Rectangle53.83b60fb5cc814620c3a245789d10b53a.svg",
+    "static/media/Rectangle55.svg": "/nasledie-severa/static/media/Rectangle55.db27c7536f3288b861af94f5c25d001f.svg",
+    "static/media/Rectangle53.png": "/nasledie-severa/static/media/Rectangle53.e3ffff190ceb6d623a9b.png",
+    "static/media/FooterGroup.png": "/nasledie-severa/static/media/FooterGroup.99bda39ae3883809a97e.png",
+    "static/media/formPhoto.svg": "/nasledie-severa/static/media/formPhoto.79ae64e98378dd7fdee2364049604e57.svg",
+    "static/media/paycards.svg": "/nasledie-severa/static/media/paycards.463e7a2f31c7e3f7684476618f0c6bdf.svg",
+    "static/media/FooterPng.svg": "/nasledie-severa/static/media/FooterPng.5cbb005c5ac714620bf365bb798f471f.svg",
+    "static/media/Group777.png": "/nasledie-severa/static/media/Group777.d66feec3a52a26638038.png",
+    "static/media/About111.png": "/nasledie-severa/static/media/About111.232468e19464fefd7492.png",
+    "static/media/headerLogo.svg": "/nasledie-severa/static/media/headerLogo.77b4c1c850647a333f53992c5eba7066.svg",
+    "static/media/Group.png": "/nasledie-severa/static/media/Group.ceba061311b194dffddf.png",
+    "static/media/headerNasledie.svg": "/nasledie-severa/static/media/headerNasledie.ad653804fc33fbd79ae965de214c8008.svg",
+    "static/media/placestart.svg": "/nasledie-severa/static/media/placestart.607d18b12021502431622199fb21e43e.svg",
+    "static/media/logo.svg": "/nasledie-severa/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/nasledie-severa/index.html",
+    "static/media/poloska1.svg": "/nasledie-severa/static/media/poloska1.65c3cc0fec51614f11d2ef39dcfd9880.svg",
+    "static/media/poloska3.svg": "/nasledie-severa/static/media/poloska3.8f54606989fae53aefdf16123c91647c.svg",
+    "static/media/poloska2.svg": "/nasledie-severa/static/media/poloska2.27938592f7cc0f91d2341db9f82b8c3e.svg",
+    "main.7561f962.css.map": "/nasledie-severa/static/css/main.7561f962.css.map",
+    "main.f348fb51.js.map": "/nasledie-severa/static/js/main.f348fb51.js.map",
+    "453.04ee9f8d.chunk.js.map": "/nasledie-severa/static/js/453.04ee9f8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7561f962.css",
+    "static/js/main.f348fb51.js"
+  ]
+}
